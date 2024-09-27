@@ -1,0 +1,12 @@
+"0","library(Rspotify)"
+"0","library(httr)"
+"0","library(jsonlite)"
+"0",""
+"0","spotifyEndpoint <- oauth_endpoint(NULL, "
+"0","                                  ""https://accounts.spotify.com/authorize"","
+"0","                                  ""https://accounts.spotify.com/api/token"")"
+"0","spotifyToken <- spotifyOAuth(""Spotify Analysis"", spotifyKey, spotifySecret)"
+"2","Waiting for authentication in browser...
+"
+"2","Press Esc/Ctrl + C to abort
+"

@@ -1,0 +1,15 @@
+Rspotify
+httr
+jsonlite
+readr
+knitr
+kableExtra
+dplyr
+gdata
+radarchart
+tidyr
+ggfortify
+ggthemes
+stringr
+ggplot2
+install.packages("httpuv")
